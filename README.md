@@ -34,7 +34,7 @@ Our implementation is **based on the FACIL benchmark**:
 
 ```bash
 conda create -n yourenv python=3.10 -y
-conda activate TT
+conda activate yourenv
 
 # PyTorch (CUDA 12.6 wheels)
 pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0 \

@@ -11,7 +11,6 @@ from torch import nn
 from torch.utils.data import Dataset, DataLoader
 from torchvision.transforms import Compose
 
-from .gmm import GaussianMixture
 from .incremental_learning import Inc_Learning_Appr
 
 

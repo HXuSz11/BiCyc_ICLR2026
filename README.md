@@ -87,12 +87,14 @@ bash scripts/cifar-10x10.sh
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@inproceedings{xu2026two_way,
+@inproceedings{xu2026twoway,
   title     = {Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning},
   author    = {Xu, Hongye and Krawczyk, Bartosz},
-  booktitle = {International Conference on Learning Representations (ICLR)},
+  booktitle = {The Fourteenth International Conference on Learning Representations},
   year      = {2026},
-  url       = {https://openreview.net/forum?id=7UfZAxKo5K}
+  url       = {https://openreview.net/forum?id=7UfZAxKo5K},
+  eprint    = {2606.05675},
+  archivePrefix = {arXiv}
 }
 ```
 

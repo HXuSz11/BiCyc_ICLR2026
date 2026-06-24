@@ -5,7 +5,7 @@ This repository contains the official implementation for the ICLR 2026 paper:
 **Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning**  
 Hongye Xu, Bartosz Krawczyk
 
-OpenReview: https://openreview.net/forum?id=7UfZAxKo5K
+Paper: [OpenReview](https://openreview.net/forum?id=7UfZAxKo5K) | [arXiv](https://arxiv.org/abs/2606.05675)
 
 ---
 
